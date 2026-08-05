@@ -1,12 +1,40 @@
 # TIAS
 repositorio de tecnologias inteligentes aplicadas a saúde
 
-## DESAFIO/TRABALHO 1
+##Dia 28/07/2026
 
- - Título: LembraMed - Desenvolvimento de um Sistema para Lembretes e Gerenciamento de Medicações
- - Curso: Ciência da Computação
- - Aluno: Guilherme S. Kuhn
- - Orientadora: Ana P. Canal
- - Link do trabalho: https://tcconline.lapinf.ufn.edu.br/media/midias/TCC_II_5bxh4rt.pdf
- - Descrição básica: Sistema web (React/TypeScript no frontend, Node.js/Express no backend, MongoDB como banco de dados) que permite ao usuário cadastrar e gerenciar medicamentos, próprios ou de pessoas/animais sob seus cuidados, visualizar as medicações do dia, registrar histórico de uso e receber lembretes via SMS (API Twilio) no horário correto de utilização, evitando esquecimentos, doses erradas e uso de remédios vencidos. Desenvolvido com a metodologia ágil Feature-Driven Development.
- - Rotina de saúde trabalhada: Monitoramento, acompanhamento contínuo do uso de medicamentos (histórico de utilização, catálogo com status/validade, visualização diária) e alerta automatizado (SMS) para adesão correta ao tratamento. 
+gitHub.com/alexandrezamberlan/tias
+
+Avaliação:
+	20% Participação Efetiva
+	60% Desafios ou Trabalhos
+	20% Notas de Aula no GitHub pessoal
+
+IA = conj. Metodologias e Técnicas - sistemas de comportamento inteligente
+mapaMentalTIAS.png -> explicação de em que áreas é possível ajudar na Saúde (diagnóstico, med e odonto), (monitoramento, enfermagem), (reconhecimento de padrão, Farmácia), (sistemas autônomos/gadgets, fisio)
+
+Problemas ou Desafios para técnicas de IA
+	1) diagnóstico
+		- reconhecimento de padrões
+			- treinamento ou ofertas de amostras
+	2) monitoramento ou sensoriamento
+		- imagem, vídeo, áudio ou texto
+	Entendimento:
+		- recomendar: (baseado no histórico do usuário)
+		- Apoiar a decisão: (baseado em dados concretos, de vários anos)
+
+
+##DIA 04/08/2026
+
+Saúde:
+	Diagnostico
+		-reconhecer padrões -> volume de dados -> algoritmos de aprendizado de máquina
+	Monitoramento ou Sensoriamento e Atuação
+		- automação
+	Predição e previsão
+		- reconhecer padrões -> volume de dados -> algoritmos de mineração
+
+redes neurais -> aprendizagem => reconhecer padrões
+	RNA
+	ML
+	MD
