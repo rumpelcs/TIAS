@@ -1,7 +1,7 @@
 # TIAS
 repositorio de tecnologias inteligentes aplicadas a saúde
 
-##Dia 28/07/2026
+## Dia 28/07/2026
 
 gitHub.com/alexandrezamberlan/tias
 
@@ -24,7 +24,7 @@ Problemas ou Desafios para técnicas de IA
 		- Apoiar a decisão: (baseado em dados concretos, de vários anos)
 
 
-##DIA 04/08/2026
+## DIA 04/08/2026
 
 Saúde:
 	Diagnostico
