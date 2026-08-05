@@ -26,12 +26,12 @@ repositorio de tecnologias inteligentes aplicadas a saúde
 
 ## DIA 04/08/2026
 
-Saúde:
-	Diagnostico
+- Saúde:
+	- Diagnostico
 		-reconhecer padrões -> volume de dados -> algoritmos de aprendizado de máquina
-	Monitoramento ou Sensoriamento e Atuação
+	- Monitoramento ou Sensoriamento e Atuação
 		- automação
-	Predição e previsão
+	- Predição e previsão
 		- reconhecer padrões -> volume de dados -> algoritmos de mineração
 
 redes neurais -> aprendizagem => reconhecer padrões
