@@ -34,7 +34,7 @@ repositorio de tecnologias inteligentes aplicadas a saúde
 	- Predição e previsão
 		- reconhecer padrões -> volume de dados -> algoritmos de mineração
 
-redes neurais -> aprendizagem => reconhecer padrões
-	RNA
-	ML
-	MD
+-redes neurais -> aprendizagem => reconhecer padrões
+	- RNA
+	- ML
+	- MD
