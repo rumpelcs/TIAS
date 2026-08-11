@@ -51,4 +51,4 @@
 		- Previsão: séries temporais ≅ tempo contínuo ≅ projeção
 
 
-		SEGREDO: Qualidade da amostra -> indivíduos, elementos, objetos ou cenários
+		SEGREDO: Qualidade da amostra X Quantidade de amostra -> indivíduos, elementos, objetos ou cenários
