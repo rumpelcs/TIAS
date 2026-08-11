@@ -1,27 +1,27 @@
 # TIAS
-repositorio de tecnologias inteligentes aplicadas a saúde
+	repositorio de tecnologias inteligentes aplicadas a saúde
 
 ## Dia 28/07/2026
 
-- gitHub.com/alexandrezamberlan/tias
+	- gitHub.com/alexandrezamberlan/tias
 
-- Avaliação:
-	- 20% Participação Efetiva
-	- 60% Desafios ou Trabalhos
-	- 20% Notas de Aula no GitHub pessoal
+	- Avaliação:
+		- 20% Participação Efetiva
+		- 60% Desafios ou Trabalhos
+		- 20% Notas de Aula no GitHub pessoal
 
-- IA = conj. Metodologias e Técnicas - sistemas de comportamento inteligente
-- mapaMentalTIAS.png -> explicação de em que áreas é possível ajudar na Saúde (diagnóstico, med e odonto), (monitoramento, enfermagem), (reconhecimento de padrão, Farmácia), (sistemas autônomos/gadgets, fisio)
+	- IA = conj. Metodologias e Técnicas - sistemas de comportamento inteligente
+	- mapaMentalTIAS.png -> explicação de em que áreas é possível ajudar na Saúde (diagnóstico, med e odonto), (monitoramento, enfermagem), (reconhecimento de padrão, Farmácia), (sistemas autônomos/gadgets, fisio)
 
-- Problemas ou Desafios para técnicas de IA
-	- 1) diagnóstico
-		- reconhecimento de padrões
-			- treinamento ou ofertas de amostras
-	- 2) monitoramento ou sensoriamento
-		- imagem, vídeo, áudio ou texto
-	- Entendimento:
-		- recomendar: (baseado no histórico do usuário)
-		- Apoiar a decisão: (baseado em dados concretos, de vários anos)
+	- Problemas ou Desafios para técnicas de IA
+		- 1) diagnóstico
+			- reconhecimento de padrões
+				- treinamento ou ofertas de amostras
+		- 2) monitoramento ou sensoriamento
+			- imagem, vídeo, áudio ou texto
+		- Entendimento:
+			- recomendar: (baseado no histórico do usuário)
+			- Apoiar a decisão: (baseado em dados concretos, de vários anos)
 
 
 ## DIA 04/08/2026
