@@ -47,5 +47,8 @@
 		- Recomendar ou apoiar
 	
 	- Modelos:
-		- Predição: classificação ≅ categorização ≅ ETIQUETAÇÃO
-		- Previsão
+		- Predição: classificação ≅ categorização ≅ ETIQUETAÇÃO (modelos pré-treinados)
+		- Previsão: séries temporais ≅ tempo contínuo ≅ projeção
+
+
+		SEGREDO: Qualidade da amostra -> indivíduos, elementos, objetos ou cenários
