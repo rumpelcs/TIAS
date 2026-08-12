@@ -48,6 +48,9 @@
 	
 	- Modelos:
 		- Predição: classificação ≅ categorização ≅ ETIQUETAÇÃO (modelos pré-treinados)
+
+	- Google colab
+		código python sobre ipertensão
 		- Previsão: séries temporais ≅ tempo contínuo ≅ projeção
 
 
