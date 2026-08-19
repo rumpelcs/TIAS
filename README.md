@@ -55,3 +55,22 @@
 
 
 		SEGREDO: Qualidade da amostra X Quantidade de amostra -> indivíduos, elementos, objetos ou cenários
+
+## DIA 17/08/2026
+
+		- KDD -> mineração (data mining) -> reconhecimento de padrões => predição e previsao;
+			previsão{
+				* Modelos treinados -> amostras -> conjuntos, [], {};
+						
+						entrada [n]
+						X[n]
+						features[n] -> resultado BINÁRIO (sim ou não)
+							n = atributos, caracteristicas, propriedades, variáveis
+						
+						Saída esperada:
+									Y
+									target
+					}
+			predição{
+				* Modelos treinados -> Modelos Matemáticos
+				-> classificar ou categorizar ou etiquetar ou rotular
