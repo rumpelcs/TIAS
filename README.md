@@ -1,5 +1,7 @@
 # TIAS
-	repositorio de tecnologias inteligentes aplicadas a saúde
+	Repositório de Tecnologias Inteligentes Aplicadas à Saúde
+	Disciplina do oitavo semestre, cursada no segundo semestre
+	Professor Alexandre De Oliveira Zamberlan
 
 ## Dia 28/07/2026
 
