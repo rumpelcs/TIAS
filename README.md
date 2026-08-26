@@ -74,3 +74,10 @@
 			predição{
 				* Modelos treinados -> Modelos Matemáticos
 				-> classificar ou categorizar ou etiquetar ou rotular
+
+## DIA 25/08/2026
+
+		- Questionário sobre KDD, predição e previsão e processo de reconhecer padrões
+		- Continuação do código 5 da semana passada no Google Colab.
+
+		
