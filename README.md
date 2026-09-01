@@ -390,7 +390,3 @@ Previsão
 - carregar amostras.
 
 </details>
-
----
-
-<details>
