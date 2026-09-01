@@ -390,6 +390,6 @@ Previsão
 - instalar PyCaret no colab
 - carregar amostras:
 
-  </details>
+</details>
 
 ---
