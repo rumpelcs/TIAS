@@ -383,8 +383,7 @@ Previsão
 </details>
 <summary><h2>📅 Aula 06 — 01/09/2026</h2></summary>
 
-
-### Apresentação do Bernardo De PYCARET
+### 📋 Apresentação do Bernardo De PYCARET
 
 - PyCaret é compativel com o Python 2025.07
 - instalar PyCaret no colab
