@@ -388,8 +388,10 @@ Previsão
 
 - PyCaret é compativel com o Python 2025.07
 - instalar PyCaret no colab
-- carregar amostras:
+- carregar amostras.
 
 </details>
 
 ---
+
+</details>
