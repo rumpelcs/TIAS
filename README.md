@@ -399,4 +399,17 @@ Teste X Treinamento
 ACC X F1 SCORE
 ```
 
+- Recall: Falsos positivos, testar.
+- Precisao é o contrario do Recall: das vezes que eu falei ser positivo, quantas eu acertei?
+  - F1 score tenta achar o melhor entre os dois
+- Como programar com o pycaret:
+  - Docker, venv
+  - python 3.10
+  - biblioteca jupyter (parecida com o colab)
+  - docker compose
+  - devcontainer
+- PyCaret web: para empresas e negocios
+  - Contribui na web da empresa, com base de dados e incorpora IAs, modelos, etc...
+- 
+
 </details>
