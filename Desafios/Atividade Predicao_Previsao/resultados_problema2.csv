@@ -1,7 +1,0 @@
-Modelo,Acuracia_Treino,Acuracia_Teste,Gap_Treino_Teste,Acuracia_CV5_Media,Acuracia_CV5_Std,Precisao_Teste,Recall_Teste,F1_Teste
-Naive_Bayes,0.766,0.813,-0.048,0.726,0.043,0.848,0.757,0.8
-Regressao_Logistica,0.766,0.76,0.006,0.737,0.055,0.744,0.784,0.763
-SVM,0.817,0.747,0.07,0.703,0.039,0.737,0.757,0.747
-Random_Forest,0.989,0.747,0.242,0.703,0.067,0.737,0.757,0.747
-Arvore_Decisao,0.891,0.72,0.171,0.623,0.042,0.7,0.757,0.727
-KNN,0.8,0.693,0.107,0.72,0.071,0.667,0.757,0.709
