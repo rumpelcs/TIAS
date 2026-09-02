@@ -410,6 +410,5 @@ ACC X F1 SCORE
   - devcontainer
 - PyCaret web: para empresas e negocios
   - Contribui na web da empresa, com base de dados e incorpora IAs, modelos, etc...
-- 
 
 </details>
