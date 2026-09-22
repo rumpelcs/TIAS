@@ -412,3 +412,23 @@ ACC X F1 SCORE
   - Contribui na web da empresa, com base de dados e incorpora IAs, modelos, etc...
 
 </details>
+
+---
+
+<details>
+<summary><h2>📅 Aula 07 — 22/09/2026</h2></summary>
+
+### 1) LEVANTAMENTO 
+  - Habilidade de interpretação
+      - Matriz de confusão
+      - acurácia
+      - F1 score
+      - Recall
+      - Precision
+### 2) Trabalhos
+
+
+### 3) Pycaret
+
+
+</details>
