@@ -433,6 +433,8 @@ ACC X F1 SCORE
 
 </details>
 
+---
+
 <details>
 <summary><h2>📅 Aula 08 — 29/09/2026</h2></summary>
 
