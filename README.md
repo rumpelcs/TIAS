@@ -443,8 +443,8 @@ ACC X F1 SCORE
     - modelos de predição e previsão {Pycaret - auto _machine learning_ 
                                               - configurações (setup)*
                                               - treinamento
-            - Teorias/conceitos               - teste
-                     - Pycaret                - composições -> definir o melhor modelo - tuning
+                                              - teste
+                                              - composições -> definir o melhor modelo - tuning
                                               - gera executáveis
 
 ### APRESENTAÇÃO MINICURSO PYCARET
