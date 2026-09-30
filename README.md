@@ -438,15 +438,14 @@ ACC X F1 SCORE
 <details>
 <summary><h2>📅 Aula 08 — 29/09/2026</h2></summary>
 
-### PIPELINE
+### 1) PIPELINE
   -Linha/fluxo de tarefas em IA
-    - modelos de predição e previsão {Pycaret - auto _machine learning_ 
+    - modelos de predição e previsão: Pycaret - auto _machine learning_ 
       - configurações (setup)*
       - treinamento
       - teste
       - composições -> definir o melhor modelo - tuning
       - gera executáveis
-
-### APRESENTAÇÃO MINICURSO PYCARET
+### 2) APRESENTAÇÃO MINICURSO PYCARET
 
 <details>
