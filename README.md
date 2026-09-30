@@ -441,11 +441,11 @@ ACC X F1 SCORE
 ### PIPELINE
   -Linha/fluxo de tarefas em IA
     - modelos de predição e previsão {Pycaret - auto _machine learning_ 
-                                              - configurações (setup)*
-                                              - treinamento
-                                              - teste
-                                              - composições -> definir o melhor modelo - tuning
-                                              - gera executáveis
+      - configurações (setup)*
+      - treinamento
+      - teste
+      - composições -> definir o melhor modelo - tuning
+      - gera executáveis
 
 ### APRESENTAÇÃO MINICURSO PYCARET
 
