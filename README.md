@@ -448,4 +448,4 @@ ACC X F1 SCORE
       - gera executáveis
 ### 2) APRESENTAÇÃO MINICURSO PYCARET
 
-<details>
+</details>
